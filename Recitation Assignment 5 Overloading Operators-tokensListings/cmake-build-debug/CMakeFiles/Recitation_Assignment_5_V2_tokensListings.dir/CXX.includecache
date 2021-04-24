@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dev C++/CS280 Programming Language Concepts/Recitation Assignment 5 V2 tokensListings/lex.h
+string
+-
+iostream
+-
+map
+-
+
+C:/Dev C++/CS280 Programming Language Concepts/Recitation Assignment 5 V2 tokensListings/tokensListing.cpp
+iostream
+-
+map
+-
+lex.h
+C:/Dev C++/CS280 Programming Language Concepts/Recitation Assignment 5 V2 tokensListings/lex.h
+cctype
+-
+map
+-
+

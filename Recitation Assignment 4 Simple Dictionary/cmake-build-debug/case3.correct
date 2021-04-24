@@ -1,0 +1,34 @@
+Letters of Largest number of occurrences: E: 123
+List of characters seen in the file and their number of occurrences:
+": 4
+(: 1
+): 1
+,: 6
+-: 4
+.: 7
+A: 63
+B: 19
+C: 41
+D: 27
+E: 123
+F: 20
+G: 20
+H: 43
+I: 77
+K: 2
+L: 40
+M: 21
+N: 55
+O: 62
+P: 22
+Q: 2
+R: 53
+S: 60
+T: 85
+U: 24
+V: 15
+W: 13
+X: 1
+Y: 13
+^: 1
+Number of non-alphanumeric characters seen in the file: 7

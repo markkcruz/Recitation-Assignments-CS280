@@ -1,0 +1,14 @@
+Identifiers and Keywords:
+PRINT Line #: 15
+IDENT (circle) Line #: 5
+IDENT (square) Line #: 6
+IDENT (rectangle) Line #: 7
+IDENT (ellipse) Line #: 3
+PROGRAM Line #: 3
+READ Line #: 3
+INTEGER Line #: 3
+REAL Line #: 3
+CHAR Line #: 3
+IF Line #: 3
+THEN Line #: 3
+END Line #: 3

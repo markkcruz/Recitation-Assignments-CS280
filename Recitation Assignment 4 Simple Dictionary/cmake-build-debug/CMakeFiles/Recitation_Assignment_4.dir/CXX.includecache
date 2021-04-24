@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dev C++/CS280 Programming Language Concepts/Recitation Assignment 4/RA4_Mark_Cruz.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+cctype
+-
+map
+-
+

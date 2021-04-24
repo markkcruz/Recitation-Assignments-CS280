@@ -1,0 +1,31 @@
+ASSIGNMENT=tokensListing
+
+ex=~/$ASSIGNMENT
+
+cd $LIB/public/recitationSP21/RA5
+
+[ ! -e $ex ] && echo Cannot find the program, please build it! && exit 1
+
+ofile=`mktemp`
+cases=("" "othertok" "idsonly" )
+flags=("" "-othertok" "-idsonly") 
+ 
+for i in 1 2 ;
+do
+	score=0
+	
+    echo RUNNING ${cases[i]}
+    eval $LIB/public/wrapcase.pl -- "bash -c \"$ex ${flags[$i]} 2>&1\"" | tee $ofile
+
+    ## for setup ## cp $ofile $args.correct
+
+    diff $ofile ${cases[i]}.correct
+
+    [ $? -eq 0 ] && score=2 
+
+    echo RESULT: ${cases[i]} "[ " $score " / 2 ]"
+
+    rm $ofile
+done
+
+exit $score

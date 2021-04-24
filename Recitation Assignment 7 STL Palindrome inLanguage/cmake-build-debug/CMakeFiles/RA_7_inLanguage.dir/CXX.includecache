@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dev C++/CS280 Programming Language Concepts/RA 7 inLanguage/RA7prog.cpp
+iostream
+-
+fstream
+-
+string
+-
+
+C:/Dev C++/CS280 Programming Language Concepts/RA 7 inLanguage/inLanguage.cpp
+iostream
+-
+string
+-
+stack
+-
+queue
+-
+
