@@ -3,4 +3,4 @@ project(Recitation_Assignment_8_Inheritance___Polymorphism)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Recitation_Assignment_8_Inheritance___Polymorphism main.cpp)
+add_executable(Recitation_Assignment_8_Inheritance___Polymorphism RA8prog.cpp)
