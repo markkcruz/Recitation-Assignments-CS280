@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/main.cpp
+C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/PureVirtualFunction.cpp
+iostream
+-
+string
+-
+
+C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/virtualFunctions.cpp
 iostream
 -
 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Recitation Assignment 8 Inheritance & Polymorphism/RA8prog.cpp
+iostream
+-
+string
+-
+iomanip
+-
+vector
+-
+

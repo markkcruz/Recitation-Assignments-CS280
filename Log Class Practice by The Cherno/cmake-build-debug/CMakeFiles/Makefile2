@@ -78,12 +78,12 @@ clean: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\clean
 CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target Recitation_Assignment_8_Class_Practice"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4,5 "Built target Recitation_Assignment_8_Class_Practice"
 .PHONY : CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\rule

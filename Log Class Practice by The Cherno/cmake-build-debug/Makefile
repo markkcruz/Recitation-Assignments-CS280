@@ -127,6 +127,60 @@ Recitation_Assignment_8_Class_Practice\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build
 .PHONY : Recitation_Assignment_8_Class_Practice\fast
 
+PureVirtualFunction.obj: PureVirtualFunction.cpp.obj
+
+.PHONY : PureVirtualFunction.obj
+
+# target to build an object file
+PureVirtualFunction.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.obj
+.PHONY : PureVirtualFunction.cpp.obj
+
+PureVirtualFunction.i: PureVirtualFunction.cpp.i
+
+.PHONY : PureVirtualFunction.i
+
+# target to preprocess a source file
+PureVirtualFunction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.i
+.PHONY : PureVirtualFunction.cpp.i
+
+PureVirtualFunction.s: PureVirtualFunction.cpp.s
+
+.PHONY : PureVirtualFunction.s
+
+# target to generate assembly for a file
+PureVirtualFunction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.s
+.PHONY : PureVirtualFunction.cpp.s
+
+Visibility.obj: Visibility.cpp.obj
+
+.PHONY : Visibility.obj
+
+# target to build an object file
+Visibility.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.obj
+.PHONY : Visibility.cpp.obj
+
+Visibility.i: Visibility.cpp.i
+
+.PHONY : Visibility.i
+
+# target to preprocess a source file
+Visibility.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.i
+.PHONY : Visibility.cpp.i
+
+Visibility.s: Visibility.cpp.s
+
+.PHONY : Visibility.s
+
+# target to generate assembly for a file
+Visibility.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.s
+.PHONY : Visibility.cpp.s
+
 log.obj: log.cpp.obj
 
 .PHONY : log.obj
@@ -154,32 +208,32 @@ log.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\log.cpp.s
 .PHONY : log.cpp.s
 
-main.obj: main.cpp.obj
+virtualFunctions.obj: virtualFunctions.cpp.obj
 
-.PHONY : main.obj
+.PHONY : virtualFunctions.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.obj
-.PHONY : main.cpp.obj
+virtualFunctions.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.obj
+.PHONY : virtualFunctions.cpp.obj
 
-main.i: main.cpp.i
+virtualFunctions.i: virtualFunctions.cpp.i
 
-.PHONY : main.i
+.PHONY : virtualFunctions.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.i
-.PHONY : main.cpp.i
+virtualFunctions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.i
+.PHONY : virtualFunctions.cpp.i
 
-main.s: main.cpp.s
+virtualFunctions.s: virtualFunctions.cpp.s
 
-.PHONY : main.s
+.PHONY : virtualFunctions.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.s
-.PHONY : main.cpp.s
+virtualFunctions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.s
+.PHONY : virtualFunctions.cpp.s
 
 # Help Target
 help:
@@ -190,12 +244,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Recitation_Assignment_8_Class_Practice
+	@echo ... PureVirtualFunction.obj
+	@echo ... PureVirtualFunction.i
+	@echo ... PureVirtualFunction.s
+	@echo ... Visibility.obj
+	@echo ... Visibility.i
+	@echo ... Visibility.s
 	@echo ... log.obj
 	@echo ... log.i
 	@echo ... log.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... virtualFunctions.obj
+	@echo ... virtualFunctions.i
+	@echo ... virtualFunctions.s
 .PHONY : help
 
 

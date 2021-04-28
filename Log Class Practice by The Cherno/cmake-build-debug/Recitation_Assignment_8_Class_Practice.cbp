@@ -82,10 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/PureVirtualFunction.cpp">
+			<Option target="Recitation_Assignment_8_Class_Practice"/>
+		</Unit>
+		<Unit filename="C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/Visibility.cpp">
+			<Option target="Recitation_Assignment_8_Class_Practice"/>
+		</Unit>
 		<Unit filename="C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/log.cpp">
 			<Option target="Recitation_Assignment_8_Class_Practice"/>
 		</Unit>
-		<Unit filename="C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/main.cpp">
+		<Unit filename="C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/virtualFunctions.cpp">
 			<Option target="Recitation_Assignment_8_Class_Practice"/>
 		</Unit>
 		<Unit filename="C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/CMakeLists.txt">

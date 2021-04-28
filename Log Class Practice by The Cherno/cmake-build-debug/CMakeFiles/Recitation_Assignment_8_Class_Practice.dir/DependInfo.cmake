@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/PureVirtualFunction.cpp" "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/PureVirtualFunction.cpp.obj"
+  "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/Visibility.cpp" "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/Visibility.cpp.obj"
   "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/log.cpp" "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/log.cpp.obj"
-  "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/main.cpp" "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/main.cpp.obj"
+  "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/virtualFunctions.cpp" "C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/virtualFunctions.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

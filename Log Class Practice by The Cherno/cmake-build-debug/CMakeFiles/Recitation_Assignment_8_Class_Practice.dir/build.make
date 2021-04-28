@@ -80,38 +80,80 @@ CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\log.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\log.cpp.s /c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\log.cpp"
 <<
 
-CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.obj: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\flags.make
-CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/main.cpp.obj"
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.obj: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\flags.make
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.obj: ..\virtualFunctions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/virtualFunctions.cpp.obj"
 	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.obj /FdCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\ /FS -c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.obj /FdCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\ /FS -c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\virtualFunctions.cpp"
 <<
 
-CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/main.cpp.i"
-	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\main.cpp"
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/virtualFunctions.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\virtualFunctions.cpp"
 <<
 
-CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/main.cpp.s"
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/virtualFunctions.cpp.s"
 	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.s /c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.s /c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\virtualFunctions.cpp"
+<<
+
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.obj: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\flags.make
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.obj: PureVirtualFunction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/PureVirtualFunction.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.obj /FdCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\ /FS -c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\PureVirtualFunction.cpp"
+<<
+
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/PureVirtualFunction.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\PureVirtualFunction.cpp"
+<<
+
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/PureVirtualFunction.cpp.s"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.s /c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\PureVirtualFunction.cpp"
+<<
+
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.obj: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\flags.make
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.obj: Visibility.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/Visibility.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.obj /FdCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\ /FS -c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\Visibility.cpp"
+<<
+
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/Visibility.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\Visibility.cpp"
+<<
+
+CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Recitation_Assignment_8_Class_Practice.dir/Visibility.cpp.s"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.s /c "C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\Visibility.cpp"
 <<
 
 # Object files for target Recitation_Assignment_8_Class_Practice
 Recitation_Assignment_8_Class_Practice_OBJECTS = \
 "CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\log.cpp.obj" \
-"CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.obj"
+"CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.obj" \
+"CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.obj" \
+"CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.obj"
 
 # External object files for target Recitation_Assignment_8_Class_Practice
 Recitation_Assignment_8_Class_Practice_EXTERNAL_OBJECTS =
 
 Recitation_Assignment_8_Class_Practice.exe: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\log.cpp.obj
-Recitation_Assignment_8_Class_Practice.exe: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\main.cpp.obj
+Recitation_Assignment_8_Class_Practice.exe: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\virtualFunctions.cpp.obj
+Recitation_Assignment_8_Class_Practice.exe: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\PureVirtualFunction.cpp.obj
+Recitation_Assignment_8_Class_Practice.exe: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\Visibility.cpp.obj
 Recitation_Assignment_8_Class_Practice.exe: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\build.make
 Recitation_Assignment_8_Class_Practice.exe: CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Recitation_Assignment_8_Class_Practice.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Recitation_Assignment_8_Class_Practice.exe"
 	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Recitation_Assignment_8_Class_Practice.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Recitation_Assignment_8_Class_Practice.dir\objects1.rsp @<<
  /out:Recitation_Assignment_8_Class_Practice.exe /implib:Recitation_Assignment_8_Class_Practice.lib /pdb:"C:\Dev C++\CS280 Programming Language Concepts\Recitation-Assignments-CS280\Log Class Practice by The Cherno\cmake-build-debug\Recitation_Assignment_8_Class_Practice.pdb" /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
