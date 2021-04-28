@@ -1,0 +1,3 @@
+C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/Recitation_Assignment_8_Class_Practice.dir
+C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dev C++/CS280 Programming Language Concepts/Recitation-Assignments-CS280/Log Class Practice by The Cherno/main.cpp
+iostream
+-
+
